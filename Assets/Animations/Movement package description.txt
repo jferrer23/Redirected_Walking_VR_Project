@@ -1,0 +1,57 @@
+Movement Package
+
+This package features a collection of fbx animations for a bipedal humanoid character walking, running and performing other general movement actions
+
+Walking 1: Standard walking animation
+
+Walking 2: Alternate Standard walking animation
+
+Cautious Walk: Walking cautiously forward
+
+Nervous Walk: Walking forward nervously
+
+Drop to Knees: Dropping to knees dramatically
+
+Running 1: Running back and forth
+
+Running 2: Alternate running back and forth
+
+Running 3: Standard running animation
+
+Running 4: Alternate standard running animation
+
+Running Stop: Coming to an abrupt stop while running
+
+Standing Turns Left: Left stationary turns at 90, 135 and 180 degrees
+
+Standing Turns Right: Right stationary turns at 90, 135 and 180 degrees
+
+Turn and Walk Left 1: Turning left at 90 degrees and walking
+
+Turn and Walk Left 2: Turning left at 135 degrees and walking
+
+Turn and Walk Left 3: Turning left at 180 degrees and walking
+
+Turn and Walk Right 1: Turning right at 90 degrees and walking
+
+Turn and Walk Right 2: Turning right at 135 degrees and walking
+
+Turn and Walk Right 3: Turning right at 180 degrees and walking
+
+Wade Through Water 1: Wading through knee deep water
+
+Wade Through Water 2: Wading through waist deep water
+
+Walk and Look Around 1: Observing environment while walking
+
+Walk and Look Around 2: Alternate observing environment while walking
+
+Walking Across Beam: Walking across a thin beam
+
+Walking with Broom 1: Walking while holding a broom
+
+Walking with Broom 2: Alternate walking while holding broom
+
+Walking with object: Walking while holding an object
+
+If you have any questions feel free to contact us at morromotion.forumotion.com
